@@ -12,4 +12,4 @@ I'm an AI software engineer learning in public, one project at a time.
 _Nothing here yet. Experiments will be added as I build them._
 
 ## About me
-Ayesha Shaik· AI software engineer 
+Ayesha Shaik · AI software engineer 
